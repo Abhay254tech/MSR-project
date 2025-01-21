@@ -1,0 +1,55 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.product-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: rgb(95, 95, 95);
+  border: 1px solid white;
+}
+
+.product-table th  {
+  background-color: rgb(95, 95, 95);
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid white;
+}
+
+.product-table td {
+  background-color: rgb(95, 95, 95);
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid white;
+}
+.user-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: rgb(95, 95, 95);
+  border: 1px solid white;
+}
+
+.user-table th  {
+  background-color: rgb(95, 95, 95);
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid white;
+}
+
+.user-table td {
+  background-color: rgb(95, 95, 95);
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid white;
+}
+
+.buttons  button{
+  background-color: rgb(95, 95, 95);
+  color: white;
+  padding: 0.5rem;
+  border: 1px solid white;
+  margin: 0.5rem;
+}
